@@ -1,1 +1,1 @@
-# 0x09. C - Static libraries
+ Dynamic and Static library(Static and Dynamic linking)
