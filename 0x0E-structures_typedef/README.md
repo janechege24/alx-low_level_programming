@@ -1,1 +1,1 @@
-#c preprocessor
+# c structures and typedef
